@@ -13,7 +13,4 @@ def get_the_values(groceries)
  groceries.values
 end
 
-r
-}
-
 get_the_values(groceries)
